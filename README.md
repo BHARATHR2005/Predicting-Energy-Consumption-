@@ -8,13 +8,13 @@ Smart grids face challenges due to fluctuating demand and the integration of ren
 •	Reduced operational costs
 •	Proactive demand response strategies
 ________________________________________
-##**🔍 Objective**
+## **🔍 Objective**
 •	Analyze historical energy consumption trends
 •	Build and evaluate forecasting models (ARIMA, Prophet, LSTM)
 •	Provide insights for energy providers and grid operators
 •	Enable proactive decision-making based on predictive analytics
 ________________________________________
-##** 🛠️ Tech Stack**
+## ** 🛠️ Tech Stack**
 •	Language: Python 3.x
 •	Libraries:
 pandas, numpy, matplotlib, seaborn, plotly,
@@ -22,7 +22,7 @@ scikit-learn, statsmodels, prophet, tensorflow/keras
 •	Tools: Google Colab / Jupyter Notebook
 •	Visualization: Matplotlib, Plotly, Tableau (optional)
 ________________________________________
-##** 📂 Project Structure**
+## ** 📂 Project Structure**
 bash
 CopyEdit
 ├── data/                  # Raw and cleaned datasets
