@@ -2,7 +2,7 @@
 **📌 Project Overview**
 This project focuses on forecasting energy consumption using historical data to support smart grid optimization. With the rise of IoT and dynamic energy demands, accurate predictions help in better load balancing, reduced outages, and cost savings for utility providers.
 ________________________________________
-## ** 📊 Problem Statement**
+## **📊 Problem Statement**
 Smart grids face challenges due to fluctuating demand and the integration of renewable sources. Accurately forecasting energy usage enables:
 •	Efficient energy distribution
 •	Reduced operational costs
@@ -14,7 +14,7 @@ ________________________________________
 •	Provide insights for energy providers and grid operators
 •	Enable proactive decision-making based on predictive analytics
 ________________________________________
-## ** 🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 •	Language: Python 3.x
 •	Libraries:
 pandas, numpy, matplotlib, seaborn, plotly,
@@ -22,7 +22,7 @@ scikit-learn, statsmodels, prophet, tensorflow/keras
 •	Tools: Google Colab / Jupyter Notebook
 •	Visualization: Matplotlib, Plotly, Tableau (optional)
 ________________________________________
-## ** 📂 Project Structure**
+## **📂 Project Structure**
 bash
 CopyEdit
 ├── data/                  # Raw and cleaned datasets
