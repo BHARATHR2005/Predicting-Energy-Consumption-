@@ -52,7 +52,7 @@ ________________________________________
 
 ## **🚀 How to Run**
 1.	Clone the repository: git clone
-https://github.com/Gokulakrishnan200005/Predicting-energy-consumption-patterns-using-time-series-forcating-for-smart-grids-
+(https://github.com/BHARATHR2005/Predicting-Energy-Consumption-/tree/main)
 2.	Install requirements
 pip install -r requirements.txt
 3.	Open notebook
